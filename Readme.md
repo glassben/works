@@ -10,10 +10,10 @@ Benjamin Glass
 
 
 This git repertory aims at exhibiting my works that I had done alone or in group (generally accompanied with 2 or 3 fellow students) to any interested person.
-These one are, for now,unically composed of renderings which comply the Computer engineering program.
+These ones are,until now,unically composed of renderings which comply the Computer engineering program.
 I organized my projects in different sections:
 Each one countains software realized in one specific programmation language.
-For each of them, I tried to explain my code's behavior, the imposed constraint, my choice to use such data structure, as well as a critical return on my implementation choice.
+For each of them, I tried to explain the behavior of my code, the imposed constraints, my choice to use such data structure, as well as a critical return on my choice of implementation.
 Wishing you a good reading,
 Benjamin Glass 
 
