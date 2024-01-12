@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77a8bb4e-271e-4b21-9293-79981190bcd7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" afterPath="$PROJECT_DIR$/../.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/Invader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/Invader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/TestInvader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/TestInvader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/balls/Balls.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/balls/Balls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/balls/BallsSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/balls/BallsSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/balls/TestBallsSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/balls/TestBallsSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/boids/BoidsManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/boids/BoidsManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/boids/BoidsSimulator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/boids/BoidsSimulator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/boids/BoidsSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/boids/BoidsSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/boids/EntityBoid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/boids/EntityBoid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/boids/TestBoidsSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/boids/TestBoidsSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/boids/Vector2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/boids/Vector2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/events/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/events/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/events/EventManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/events/EventManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/events/MessageEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/events/MessageEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/events/TestEventManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/events/TestEventManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/SuperCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/SuperCell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/TestGridSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/TestGridSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/conway/CellState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/conway/CellState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/conway/Cells.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/conway/Cells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/conway/ConveySimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/conway/ConveySimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/immigration/CellsImm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/immigration/CellsImm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/immigration/DynamicState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/immigration/DynamicState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/immigration/ImmigrationSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/immigration/ImmigrationSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/schelling/CellsHabitation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/schelling/CellsHabitation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/schelling/ColorPeople.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/schelling/ColorPeople.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/schelling/Habitation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/schelling/Habitation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/schelling/SchellingSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/net/joker/gridsimulation/schelling/SchellingSimulator.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XXc9LzBjKb5djubqafvNwt6JOK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/home/glass/projet-poo/tpl_2A_POO/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="coucou" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="balls" />
+      <module name="tpl_2A_POO" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77a8bb4e-271e-4b21-9293-79981190bcd7" name="Changes" comment="" />
+      <created>1698778713879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698778713879</updated>
+    </task>
+    <servers />
+  </component>
+</project>
